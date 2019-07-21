@@ -7,7 +7,7 @@ an application that let's you search for the weather of a specific city
 enter the name of the city you want to get it's weather in the form and hit enter
 
 ### live preview
-
+(https://mattar-weather-application.herokuapp.com/)
 ## Built With
 
 * [hbs](https://github.com/pillarjs/hbs#readme) - Express.js view engine for handlebars.js
